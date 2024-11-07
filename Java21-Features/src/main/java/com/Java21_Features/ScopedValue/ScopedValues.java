@@ -1,4 +1,4 @@
-package com.Java21_Features.sealed_interfaces;
+package com.Java21_Features.ScopedValue;
 
 import java.lang.ScopedValue;
 
